@@ -1,0 +1,60 @@
+/* O margin define espaco em cima e em baixo, e a direita e esquerda. isso de forma ordenada e entre elementos */
+/* O padding ele define espaco entre elementos, porem utilizando no pai dos elementos */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#home {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+#home a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+}
+
+#desc{
+
+border: 5px solid #f0f0f0;
+padding: 20px;
+margin: 0 auto;
+width: 50%;
+background-color: #fff;
+
+}
+#desc h3{
+
+text-align: center;
+
+}
+#desc p{
+
+text-align: center;
+
+}
+
+
+
+#picture {
+    width: 200px; /* Define a largura da imagem */
+    height: 200px; /* Define a altura da imagem */
+    display: block;
+    margin: 0 auto;
+  }
+  #video{
+
+    display: block;
+margin: 0 auto;
+
+  }

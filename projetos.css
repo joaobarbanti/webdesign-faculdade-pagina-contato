@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#projetos{
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+#projetos a{
+
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+
+}
+#title{
+
+text-align: center;
+
+}
+#projeto1 {
+    border: 5px solid #ccc;
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+    background-color: #fff;
+    text-align: center;
+}
+
+#projeto1 h3{
+
+text-align: center;
+
+}
+#projeto1 p{
+
+text-align: center;
+
+}
+#projeto1 a{
+
+text-align: center;
+
+}
+#projeto2 {
+    border: 5px solid #ccc;
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+    background-color: #fff;
+    text-align: center;
+}
+
+#projeto2 h3{
+
+text-align: center;
+
+}
+#projeto2 p{
+
+text-align: center;
+
+}
+#projeto2 a{
+
+text-align: center;
+
+}
+#projeto3 {
+    border: 5px solid #ccc;
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+    background-color: #fff;
+    text-align: center;
+}
+
+#projeto3 h3{
+
+text-align: center;
+
+}
+#projeto3 p{
+
+text-align: center;
+
+}
+#projeto3 a{
+
+text-align: center;
+
+}
